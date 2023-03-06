@@ -129,6 +129,12 @@ div#first-project {
     background-size: cover;
 }
 
+div#second-project {
+    background-image: url("images/screenshot2.PNG");
+    background-size: cover;
+    background-position: center;
+}
+
 footer {
     height: 10vh;
 }
